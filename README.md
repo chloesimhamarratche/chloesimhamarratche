@@ -6,6 +6,11 @@ Skilled across frontend and backend development, with hands-on experience using 
 
 With a background in digital branding, website creation and business strategy, my approach combines technical execution, product thinking and real user needs.
 
+## Certification
+
+[Full-Stack Web Development & AI — Developers Institute]
+https://octopus.developers.institute/courses/di_learning_certificate/e92c74b6-ffc3-44f7-8517-6afbdb769e80
+
 ## Full Stack & SaaS Development
 
 - Frontend development with HTML, CSS, JavaScript and React
@@ -28,7 +33,7 @@ With a background in digital branding, website creation and business strategy, m
 ## Projects
 
 ### Shutafy App
-SaaS-oriented roommate-matching platform focused on user profiles, preferences, compatibility, matching logic and future messaging features.
+Full-stack roommate-matching web application featuring user profiles, lifestyle preferences, smart filters, compatibility-based matching and Normal/Premium plans.
 
 ### Web Development Projects
 Full stack projects built with HTML, CSS, JavaScript, React, Node.js, Express and PostgreSQL.
