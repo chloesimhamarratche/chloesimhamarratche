@@ -8,8 +8,7 @@ With a background in digital branding, website creation and business strategy, m
 
 ## Certification
 
-[Full-Stack Web Development & AI — Developers Institute]
-https://octopus.developers.institute/courses/di_learning_certificate/e92c74b6-ffc3-44f7-8517-6afbdb769e80
+Full-Stack Web Development & AI Certificate – Developers Institute: https://octopus.developers.institute/courses/di_learning_certificate/e92c74b6-ffc3-44f7-8517-6afbdb769e80
 
 ## Full Stack & SaaS Development
 
